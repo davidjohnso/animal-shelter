@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.labradoodle {
+    grid-row: 1 / 3;
+}
+
+.yorkipoo {
+  grid-row: 2 / 3;
+}
+
+.maltipoo {
+  grid-row: 3 / 3;
+}
