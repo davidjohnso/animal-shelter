@@ -1,9 +1,13 @@
 .flex-container {
   display: flex;
+  text-align: center;
 }
 
 h1 {
   text-align: center;
+  color: white;
+  background-color: teal;
+  padding: 2%;
 }
 
 img {
